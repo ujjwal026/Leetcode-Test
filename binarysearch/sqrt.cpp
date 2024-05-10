@@ -17,7 +17,7 @@ int floorSqrt(int n) {
             high = mid - 1;
         }
     }
-    return high;
+    return high;// or return low-1;
 }
 /*
 int main()
