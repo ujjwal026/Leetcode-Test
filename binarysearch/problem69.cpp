@@ -19,7 +19,7 @@ int floorSqrt(int n) {
     }
     return high;
 }
-
+/*
 int main()
 {
     int n = 28;
@@ -28,4 +28,5 @@ int main()
          << " is: " << ans << "\n";
     return 0;
 }
+*/
 
