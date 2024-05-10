@@ -17,3 +17,4 @@ int searchInsert(vector<int>& arr, int x) {
     }
     return ans;
 }
+/* basically here we are applying lower bound */
